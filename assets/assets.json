@@ -3,7 +3,7 @@
 		"content": "internal",
 		"updateAfter": 13,
 		"contentURL": [
-			"https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/assets.json",
+			"https://github.com/iam-py-test/uMatrix/raw/master/assets/assets.json",
 			"assets/assets.json"
 		]
 	},
@@ -18,9 +18,10 @@
 	},
 	"malware-0": {
 		"content": "filters",
-		"title": "Malware Domain List",
+		"title": "URLHaus",
 		"contentURL": [
-			"https://www.malwaredomainlist.com/hostslist/hosts.txt",
+			"https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt",
+			"https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
 			"assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt"
 		]
 	},
