@@ -1,3 +1,5 @@
+Note: I am no longer maintaining this repo because I really messed it up and am working on other projects.
+
 ## uMatrix<br>[<img src="https://travis-ci.org/gorhill/uMatrix.svg?branch=master" height="16">](https://travis-ci.org/gorhill/uMatrix)
 
 Definitely for advanced users.
